@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AE4822662944C42400566DB0 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4822652944C42300566DB0 /* Cell.swift */; };
+		AE7881922944F6A9004A4E66 /* none in Resources */ = {isa = PBXBuildFile; fileRef = AE7881912944F6A9004A4E66 /* none */; };
 		AE942D0F29309E2F001AC34E /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE942D0E29309E2F001AC34E /* ViewController2.swift */; };
 		AE942D112930ABA9001AC34E /* UIViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE942D102930ABA9001AC34E /* UIViewExtension.swift */; };
 		AEA8B84529276546001452E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA8B84429276546001452E1 /* AppDelegate.swift */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		AE4822652944C42300566DB0 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		AE7881912944F6A9004A4E66 /* none */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = none; sourceTree = SOURCE_ROOT; };
 		AE942D0E29309E2F001AC34E /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 		AE942D102930ABA9001AC34E /* UIViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIViewExtension.swift; sourceTree = "<group>"; };
 		AEA8B84129276546001452E1 /* memory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = memory.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,6 +77,7 @@
 				AE942D0E29309E2F001AC34E /* ViewController2.swift */,
 				AE942D102930ABA9001AC34E /* UIViewExtension.swift */,
 				AE4822652944C42300566DB0 /* Cell.swift */,
+				AE7881912944F6A9004A4E66 /* none */,
 			);
 			path = memory;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AE7881922944F6A9004A4E66 /* none in Resources */,
 				AEA8B85929276770001452E1 /* img in Resources */,
 				AEA8B85129276547001452E1 /* LaunchScreen.storyboard in Resources */,
 				AEA8B84E29276547001452E1 /* Assets.xcassets in Resources */,
